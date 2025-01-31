@@ -1,0 +1,5 @@
+.banner img {
+  width: 100%; /* Ensures image covers full width */
+  height: auto; /* Maintains aspect ratio */
+  object-fit: cover; /* Keeps the aspect ratio intact while covering the area */
+}
